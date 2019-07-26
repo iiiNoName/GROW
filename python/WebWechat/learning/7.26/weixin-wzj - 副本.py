@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 import qrcode
-import datetime
 from pyqrcode import QRCode
 import urllib.request, urllib.parse, urllib.error
 import urllib.request, urllib.error, urllib.parse
